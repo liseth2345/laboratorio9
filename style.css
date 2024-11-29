@@ -1,6 +1,6 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #5fdee2;
+    background-color: #dd97f8;
     padding: 20px;
     text-align: center;
     color: white;
@@ -40,7 +40,7 @@ nav a:hover {
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #3792b6;
+    background-color: #d7aef3;
     color: white;
     text-align: center;
     padding: 10px 0;
